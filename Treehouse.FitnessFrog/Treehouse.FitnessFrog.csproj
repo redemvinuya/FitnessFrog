@@ -136,6 +136,7 @@
     <Content Include="Views\Entries\Edit.cshtml" />
     <Content Include="Views\Entries\Delete.cshtml" />
     <Content Include="Views\Shared\_Logo.cshtml" />
+    <Content Include="Scripts\jquery.validate.boostrap.js" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
